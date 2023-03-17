@@ -1,0 +1,10 @@
+.bg-dark-blue{
+    background-color: black;
+}
+
+.profile-imege{
+    background-image: url(./img/descarga.jfif);
+    background-size: cover;
+    width: 20rem;
+    height: 20rem;
+}
